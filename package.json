@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-test",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de prueba para desplegarlo con jenkins",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "SlayerDevelopment",
+  "license": "ISC"
+}
